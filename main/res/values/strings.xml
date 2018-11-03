@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WSR</string>
+    <string name="SProfile">Профиль</string>
+    <string name="SNews">Новости</string>
+</resources>
